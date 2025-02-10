@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Mateus Bastos Neiva"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Mechanical Engineering."
+  bio              : "Mechanical Engineer"
   location         : "Rio de Janeiro"
   email            :
   links:
@@ -321,7 +321,7 @@ defaults:
       read_time: true
       share: true
       related: true
-   _pages
+  # _pages
   - scope:
       path: "docs/_pages/home.md"
       type: pages
