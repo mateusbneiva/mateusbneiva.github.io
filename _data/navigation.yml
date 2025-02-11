@@ -7,6 +7,6 @@ main:
   - title: "Publication"
   #   url: /collection-archive/
   - title: "Conference"
-    url: /conference/
+    url: _pages/conference.md
   # - title: "Sitemap"
   #   url: /sitemap/
