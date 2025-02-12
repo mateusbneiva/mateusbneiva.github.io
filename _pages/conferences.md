@@ -3,8 +3,9 @@ permalink: /conferences/
 title: "Conferences"
 ---
 
-1. Fracture across fields: insights from materials science, biology, and geophysics at Princeton University 
+1. [Fracture across fields: insights from materials science, biology, and geophysics at Princeton University](https://pcts.princeton.edu/events/2024/fracture-across-fields-insights-materials-science-biology-and-geophysics)
 <iframe src="https://mateusbneiva.github.io/files/conference/Poster_PCTS_MateusNeiva.pdf" width="640" height="480" allow="autoplay"></iframe> 
+[Flyer](https://mateusbneiva.github.io/files/conference/flyer_updated_logos.pdf)
 [Poster](https://mateusbneiva.github.io/files/conference/Poster_PCTS_MateusNeiva.pdf) 
 Certificate of attendance
 
