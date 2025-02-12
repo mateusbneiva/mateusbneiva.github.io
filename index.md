@@ -6,7 +6,9 @@ layout: single
 author_profile: true
 ---
 
-I am **PhD student** Biology at Univerity of Maryland College Park. My research interests are in the area of cell dynamics. My main projects are:
-- Project 1
-- Project 2
-- Project 3
+I am a Mechanical Engineering **Ph.D. candidate** at Pontifícia Universidade Católica (PUC-Rio). My research interests are in the area of Fracture Mechanics.
+My main projects are:
+- A New HRR field 
+- Topology Optimization 
+- Origami Fracture
+- Plasticity
