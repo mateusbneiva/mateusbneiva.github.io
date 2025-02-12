@@ -1,9 +1,15 @@
 main:
-  - title: "Presentations"
-    url: /presentations/
+  - title: "About"
+    url: /about/
+  %- title: "Presentations"
+  %  url: /presentations/
   - title: "Projects"
     url: /projects/
-  - title: "Teaching"
-    url: /teaching/
+  %- title: "Teaching"
+  %  url: /teaching/
   - title: "Publications"
     url: /publications/
+  - title: "Softwares"
+    url: /softwares/
+  - title: "Conferences"
+    url: /conference/
