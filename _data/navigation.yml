@@ -1,12 +1,9 @@
-# main links
 main:
-  - title: "About"
-     url: /collection-archive/
+  - title: "Presentations"
+    url: /presentations/
   - title: "Projects"
-  #   url: /year-archive/
-  - title: "Publication"
-  #   url: /collection-archive/
-  - title: "Conference"
-    url: /conference/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+    url: /projects/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Publications"
+    url: /publications/
