@@ -9,9 +9,9 @@ title: "Conferences"
 [Poster](https://mateusbneiva.github.io/files/conference/Poster_PCTS_MateusNeiva.pdf) 
 Certificate of attendance
 
-2. ECCOMAS 2024 
+2. [ECCOMAS 2024](https://eccomas2024.org/) 
 [Certificate of attendance](https://mateusbneiva.github.io/files/conference/Assistance Certificate.pdf)
 Presentation
 
-4. COBEM 2023 
+4. [COBEM 2023](https://eventos.abcm.org.br/cobem2023/) 
 Presentation
