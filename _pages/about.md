@@ -19,4 +19,4 @@ Education:
   Advisor: Ivan Menezes
 
 - Princeton University
-
+Advisor: [Glaucio H. Paulino](https://paulino.princeton.edu/)
