@@ -20,3 +20,36 @@ Education:
 
 - Princeton University
 Advisor: [Glaucio H. Paulino](https://paulino.princeton.edu/)
+
+Courses:
+
+- Cellular Solids Part 3: Applications in Nature. (2020 - 2021)
+  Massachusetts Institute of Technology, MIT, Estados Unidos
+
+- Cellular Solids Part 2: Applications in Medicine. (2020 - 2021)
+  Massachusetts Institute of Technology, MIT, Estados Unidos.
+
+- Mechanics of Deformable Structures: Part 2. (2020 - 2020)
+  Massachusetts Institute of Technology, MIT, Estados Unidos.
+
+- Stochastic Processes: Data Analysis and Computer Simulation. (2018 - 2018)
+  Kyoto University, KYOTO, Japão.
+
+- Mechanics of Deformable Structures: Part 1. (2018 - 2018)
+  Massachusetts Institute of Technology, MIT, Estados Unidos.
+
+- Introduction to Complex Analysis. (2017 - 2017)
+  Wesleyan University, WESLEYAN, Estados Unidos.
+
+- Elements of Structures. (2016 - 2016)
+  Massachusetts Institute of Technology, MIT, Estados Unidos.
+
+- Cellular Solids 1: Structures, Properties and Engineering Application. (2016 - 2016)
+  Massachusetts Institute of Technology, MIT, Estados Unidos.
+
+- Introduction to Programming with MATLAB. (2016 - 2016)
+  Vanderbilt University, VANDERBILT, Estados Unidos.
+
+- Engineering Systems in Motion:Dynamics of Particles and Bodies in 2D Motion. (2015 - 2016)
+  Georgia Institute of Technology, GEORGIA TECH, Estados Unidos.
+
