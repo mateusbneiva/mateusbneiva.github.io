@@ -23,33 +23,33 @@ Advisor: [Glaucio H. Paulino](https://paulino.princeton.edu/)
 
 Courses:
 
-- Cellular Solids Part 3: Applications in Nature. (2020 - 2021)
+- [Cellular Solids Part 3: Applications in Nature](https://mateusbneiva.github.io/files/courses/MITx 3.054.3x Certificate edX.pdf). (2020 - 2021)
   Massachusetts Institute of Technology, MIT, Estados Unidos
 
-- Cellular Solids Part 2: Applications in Medicine. (2020 - 2021)
+- [Cellular Solids Part 2: Applications in Medicine](https://mateusbneiva.github.io/files/courses/MITx 3.054.2x Certificate edX.pdf). (2020 - 2021)
   Massachusetts Institute of Technology, MIT, Estados Unidos.
 
-- Mechanics of Deformable Structures: Part 2. (2020 - 2020)
+- [Mechanics of Deformable Structures: Part 2](https://mateusbneiva.github.io/files/courses/MITx 2.02.2x Certificate edX.pdf). (2020 - 2020)
   Massachusetts Institute of Technology, MIT, Estados Unidos.
-
-- Stochastic Processes: Data Analysis and Computer Simulation. (2018 - 2018)
+  
+- [Stochastic Processes: Data Analysis and Computer Simulation](https://mateusbneiva.github.io/files/courses/KyotoUx 009x Certificate _ edX.pdf). (2018 - 2018)
   Kyoto University, KYOTO, Japão.
 
-- Mechanics of Deformable Structures: Part 1. (2018 - 2018)
+- [Mechanics of Deformable Structures: Part 1](https://mateusbneiva.github.io/files/courses/MITx 2.02.1x Certificate edX.pdf). (2018 - 2018)
   Massachusetts Institute of Technology, MIT, Estados Unidos.
 
-- Introduction to Complex Analysis. (2017 - 2017)
+- [Introduction to Complex Analysis](https://mateusbneiva.github.io/files/courses/Introduction to Complex Analysis Coursera.pdf). (2017 - 2017)
   Wesleyan University, WESLEYAN, Estados Unidos.
-
-- Elements of Structures. (2016 - 2016)
+  
+- [Elements of Structures](https://mateusbneiva.github.io/files/courses/MITx 2.01x Certificate edX.pdf). (2016 - 2016)
   Massachusetts Institute of Technology, MIT, Estados Unidos.
 
-- Cellular Solids 1: Structures, Properties and Engineering Application. (2016 - 2016)
+- [Cellular Solids 1: Structures, Properties and Engineering Application](https://mateusbneiva.github.io/files/courses/MITx 3.054.1x Certificate edX.pdf). (2016 - 2016)
   Massachusetts Institute of Technology, MIT, Estados Unidos.
 
-- Introduction to Programming with MATLAB. (2016 - 2016)
+- [Introduction to Programming with MATLAB](https://mateusbneiva.github.io/files/courses/Coursera CWF67JJ3Q7KN.pdf). (2016 - 2016)
   Vanderbilt University, VANDERBILT, Estados Unidos.
 
-- Engineering Systems in Motion:Dynamics of Particles and Bodies in 2D Motion. (2015 - 2016)
+- [Engineering Systems in Motion:Dynamics of Particles and Bodies in 2D Motion](https://mateusbneiva.github.io/files/courses/Coursera 28RC3FHVNAJX.pdf). (2015 - 2016)
   Georgia Institute of Technology, GEORGIA TECH, Estados Unidos.
 
