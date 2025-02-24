@@ -19,7 +19,8 @@ Education:
   Advisor: Ivan Menezes
 
 - Princeton University
-Advisor: [Glaucio H. Paulino](https://paulino.princeton.edu/)
+Visiting Student Research Collaborators (VSRC), under the advisement of [Prof. Glaucio H. Paulino](https://paulino.princeton.edu/). [Capes-PrInt](https://mateusbneiva.github.io/files/Capes_sponsor.pdf)
+[Statement](https://mateusbneiva.github.io/files/StatusStatement_Mateus Neiva.pdf)
 
 Courses:
 
@@ -52,4 +53,7 @@ Courses:
 
 - [Engineering Systems in Motion:Dynamics of Particles and Bodies in 2D Motion](https://mateusbneiva.github.io/files/courses/Coursera 28RC3FHVNAJX.pdf). (2015 - 2016)
   Georgia Institute of Technology, GEORGIA TECH, Estados Unidos.
+
+Awards:
+  
 
