@@ -7,7 +7,7 @@ title: "Conferences"
 <iframe src="https://mateusbneiva.github.io/files/conference/Poster_PCTS_MateusNeiva.pdf" width="640" height="480" allow="autoplay"></iframe> 
 [Flyer](https://mateusbneiva.github.io/files/conference/flyer_updated_logos.pdf)
 [Poster](https://mateusbneiva.github.io/files/conference/Poster_PCTS_MateusNeiva.pdf) 
-Certificate of attendance
+[Certificate of attendance](https://mateusbneiva.github.io/files/conference/attendance letter- Neiva.pdf)
 
 2. [ECCOMAS 2024](https://eccomas2024.org/) 
 [Certificate of attendance](https://mateusbneiva.github.io/files/conference/Assistance Certificate.pdf)
