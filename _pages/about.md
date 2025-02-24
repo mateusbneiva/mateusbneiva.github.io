@@ -19,7 +19,8 @@ Education:
   Advisor: Ivan Menezes
 
 - Princeton University
-Visiting Student Research Collaborators (VSRC), under the advisement of [Prof. Glaucio H. Paulino](https://paulino.princeton.edu/). [Capes-PrInt](https://mateusbneiva.github.io/files/Capes_sponsor.pdf)
+Visiting Student Research Collaborators (VSRC), under the advisement of [Prof. Glaucio H. Paulino](https://paulino.princeton.edu/). Has been awarded a scholarship from the CAPES Foundation, an agency
+under the Ministry of Education of Brazil, in order to conduct part of his SANDWICH DOCTORATE. [Capes-PrInt](https://mateusbneiva.github.io/files/Capes_sponsor.pdf)
 [Statement](https://mateusbneiva.github.io/files/StatusStatement_Mateus Neiva.pdf)
 
 Courses:
