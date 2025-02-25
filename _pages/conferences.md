@@ -11,7 +11,7 @@ title: "Conferences"
 
 2. [ECCOMAS 2024](https://eccomas2024.org/) 
 [Certificate of attendance](https://mateusbneiva.github.io/files/conference/Assistance Certificate.pdf)
-Presentation
+[Presentation](https://mateusbneiva.github.io/files/conference/ECCOMAS_2024_Plugin_040624.pdf)
 
 4. [COBEM 2023](https://eventos.abcm.org.br/cobem2023/) 
 Presentation
